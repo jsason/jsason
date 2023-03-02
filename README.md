@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jsason
-- 👀 I’m interested in digital design
-- 🌱 I’m currently working on my portfolio site
-- 💞️ I’m currently learning brand marketing
+- 🌱 I’m currently working on my portfolio website
+- 💞️ I’m currently completing my CS undergrad and a marketing bootcamp
 - 📫 How to reach me: jsason@sfu.ca
 
 <!---
